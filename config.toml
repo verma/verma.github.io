@@ -1,4 +1,4 @@
-baseURL = "http://udayv.com/"
+baseURL = "https://udayv.com/"
 languageCode = "en-us"
 title = "Uday Verma's Blog"
 theme = "PaperMod"
