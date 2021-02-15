@@ -1,0 +1,20 @@
+baseURL = "http://udayv.com/"
+languageCode = "en-us"
+title = "Uday Verma's Blog"
+theme = "PaperMod"
+enableEmoji = true
+
+[params.homeInfoParams]
+Title = "Hello, Salut! :wave:"
+Content = ":crown: The great Verma of house Clojure, First of the Committers, Node Slayer, Breaker of the Bike Shed, King of the Issues and the First Tests."
+
+[params]
+showReadingTime = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/verma"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/udaykverma"
